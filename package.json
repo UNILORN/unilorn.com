@@ -1,0 +1,22 @@
+{
+  "name": "unilorn.com",
+  "version": "0.0.1",
+  "description": "unilorn.com main page",
+  "main": "server.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/UNILORN/unilorn.com.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UNILORN/unilorn.com/issues"
+  },
+  "homepage": "https://github.com/UNILORN/unilorn.com#readme"
+}
