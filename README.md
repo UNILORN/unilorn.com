@@ -1,26 +1,24 @@
 # unilorn.com
 
-UNILORN's Portfolio Site
-
-# Development
-
-```bash
-$ npm i
-$ npm run start
+## Project setup
+```
+npm install
 ```
 
-http://localhost:3000
-
-## docker-compose 
-
-```bash
-$ rm -rf node_modules
-$ docker-compose up -d
+### Compiles and hot-reloads for development
+```
+npm run serve
 ```
 
-## Docker Only (Deploy)
-
-```bash
-$ docker build -t unilorn.com .
-$ docker run --rm -p 3000:3000 unilorn.com
+### Compiles and minifies for production
 ```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
