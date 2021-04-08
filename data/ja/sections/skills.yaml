@@ -1,0 +1,41 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Programing languages
+  summary: |
+    PHP, Golang, Node.js, Javascript, TypeScript, Python, Ruby
+- name: Framework Stack
+  summary: |
+    Laravel, FuelPHP, NodeExpress, Gochi, Vuejs, Nuxtjs, Frask, Rails
+- name: Infrastructure Stack
+  summary: |
+    Terraform, Kubernetes(k8s), k3s, Helm
+- name: Infrastructure CloudService
+  summary: |
+    AWS: ECS Fargate, EKS, EC2, AWS Greengrass, AWS IoT Core, VPC, AWS Lambda, Network全般
+- name: Version Management Stack
+  summary: |
+    Github, Gitlab, Github Actions, Gitlab CI/CD, IssueTracker, Backlog, Jira, Asana, GoogleDrive
+- name: Other
+  summary: |
+    Docker, docker-compose, OpenAPI, WebRTC, WebSocket, MQTT, gRPC
+- name: OS等
+  summary: |
+   Linux: Debian, Ubuntu, CentOS, RaspberryPI OS
+   Windows: Windows Xp ~ (now) + WSL2
+   macOS: mojave
+- name: 取得国家資格
+  summary: |
+   基本情報技術者,普通自動車,第二種電気工事士,日商簿記三級,アマチュア無線技士四級,第三級陸上特殊無線技士,第二級海上特殊無線技士
+
+

@@ -1,0 +1,56 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: FullStack Engineer
+
+# a summary about you
+summary: |
+  主にWeb系の開発エンジニアをやっています.
+  Frontend,Backendから,AWS,GCP等へのDeploy,CI/CDなどSRE業務も触れ,最近は企画・研究開発等をメインに活動しております.
+  得意なジャンルはIoT Platform周りの設計,開発等でWebを利用した可視化サービスの展開など幅広く手を付けております。
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/UNILORN"
+- name: Wantedly
+  icon: "fab fa-weebly"
+  url: "https://www.wantedly.com/id/unilorn"
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "https://twitter.com/xamrious"
+- name: Qiita
+  icon: "fa fa-search"
+  url: "https://qiita.com/UNILORN"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: 研究開発
+  percentage: 90
+  color: purple
+- name: Frontend
+  percentage: 85
+  color: green
+- name: Backend
+  percentage: 90
+  color: green
+- name: Infrastructure
+  percentage: 75
+  color: orange
+- name: SRE
+  percentage: 70
+  color: blue
+- name: Database
+  percentage: 55
+  color: yellow

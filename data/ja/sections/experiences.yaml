@@ -1,0 +1,44 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: 大阪情報コンピュータ専門学校
+    url: "https://www.oic.ac.jp/"
+    location: 大阪府
+    overview: 専門学校
+  positions:
+  - designation: 総合情報メディア学科 ネットワークセキュリティ専攻 4年制
+    start: "2015年 4月"
+    # "don't provide end date if you are currently working there. It will be replaced by "Present"
+    end: "2019年 3月"
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - システム開発、プロジェクトマネジメント、セキュリティの学習
+    - Webアプリケーション開発や、サーバー構築、サーバー保守等の演習等
+
+- company:
+    name: 株式会社オプティム
+    url: "https://www.optim.co.jp/"
+    location: 東京都
+    overview: MDM Optimal Bizをはじめとし、OPTiM Cloud IoT Platfowmの展開などデバイスマネジメント分野と AIサービスに特化したサービスを展開
+  positions:
+  - designation: エンジニア - 技術統括本部
+    start: "2019年 4月"
+    end: "2020年 10月"
+    responsibilities:
+    - "[OPTiM CLoud IoT OS](https://www.optim.cloud/platform/) 新規アプリ開発及び研究"
+    - Edge Computing, VideoStreaming, DigitalTwin 開発
+  - designation: サブマネージャ - 技術統括本部
+    start: "2020年 10月"
+    end: 現在
+    responsibilities:
+    - 新規サービス開発リーダ
