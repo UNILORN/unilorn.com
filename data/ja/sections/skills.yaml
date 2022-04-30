@@ -28,7 +28,7 @@ skills:
     Github, Gitlab, Github Actions, Gitlab CI/CD, IssueTracker, Backlog, Jira, Asana, GoogleDrive
 - name: Other
   summary: |
-    Docker, docker-compose, OpenAPI, WebRTC, WebSocket, MQTT, gRPC
+    Docker, docker-compose, OpenAPI, WebRTC, WebSocket, MQTT, gRPC, Block Chain(Eth), NFT
 - name: OS等
   summary: |
    Linux: Debian, Ubuntu, CentOS, RaspberryPI OS
