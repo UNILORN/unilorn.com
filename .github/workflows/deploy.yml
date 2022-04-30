@@ -27,4 +27,4 @@ jobs:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
         run: |
-          aws s3 cp --recursive --region ap-northeast-1 –-acl public-read public s3://unilorn.com
+          aws s3 cp –-acl public-read --recursive --region ap-northeast-1 public s3://unilorn.com
