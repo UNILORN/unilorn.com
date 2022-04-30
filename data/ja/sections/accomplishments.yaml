@@ -1,0 +1,48 @@
+# section information
+section:
+  name: Blog
+  id: accomplishments
+  enable: true
+  weight: 7
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+
+# Your accomplishments
+accomplishments:
+- name: Go言語でWindows,Linuxの常駐システムを開発する
+  timeline: "2022-04-28"
+  organization:
+    name: 株式会社OPTiM
+    url: https://www.optim.co.jp/
+  courseOverview: IoTサービスを開発する上であらゆるデバイスに対応するため､汎用化した常駐システムに関するコーディングを行いました｡
+  certificateURL: "https://tech-blog.optim.co.jp/entry/2022/04/28/100000"
+- name: JWT-OAuth2.0拡張仕様をGolangで認可実装
+  timeline: "2022-02-03"
+  organization:
+    name: 株式会社OPTiM
+    url: https://www.optim.co.jp/
+  courseOverview: LINEの認証などにも利用されていたり、OPTiMのIoT基盤システムにも導入されている認可システムですがGolangで認可を行っているサンプルプログラムがあまり転がっていないので社内メンバーに共有するついでに公開しました
+  certificateURL: "https://tech-blog.optim.co.jp/entry/2022/02/03/100000"
+- name: OpenAPI x Laravel 連携
+  timeline: "2022-01-13"
+  organization:
+    name: 株式会社OPTiM
+    url: https://www.optim.co.jp/
+  courseOverview: OpenAPIとLaravelを組み合わせ、GitlabCIにより自動でGitlab Pagesにリファレンスを公開する仕組みを紹介｡ PHPの苦手分野でもある動的型付けに関して､OpenAPIの導入により静的型付け言語とのやりとりに有用となり､フロントエンドとの連携にも利用出来る上にAPIReferenceとしても利用出来る優れものです｡
+  certificateURL: "https://tech-blog.optim.co.jp/entry/2022/01/13/100000"
+- name: OPTiM IoT Agent を GitLab CIでクロスコンパイルとパッケージング自動化
+  timeline: "2021-12-23"
+  organization:
+    name: 株式会社OPTiM
+    url: https://www.optim.co.jp/
+  courseOverview: Edgeに導入するAgentの開発をGolangで行っています｡このAgentはあらゆるOSやCPUアーキテクチャに対応する必要があり､それらを少人数のチームで運用しなければなりません｡このような運用体制上､CI等を用いた自動化が欠かせない状態となっています｡そこでDockerやGitlabCIを用いて完全自動化+リリースまで行いました｡その一部分を紹介しています｡
+  certificateURL: "https://tech-blog.optim.co.jp/entry/2021/12/23/100000"
+- name: OPTiM IoT 新規プロダクト立ち上げインタビュー
+  timeline: "2021-04-01"
+  organization:
+    name: 株式会社OPTiM
+    url: https://www.optim.co.jp/
+  courseOverview: 新規プロダクト OPTiM IoT の立ち上げに関するインタビューを行いました｡ OPTiM IoTのチームリーダとして､プロジェクト発足からチーム形成､マネジメントに関する内容となっています｡
+  certificateURL: "https://www.optim.co.jp/recruit/interview/project04/?links=interview"

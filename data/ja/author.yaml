@@ -1,4 +1,4 @@
-name: "UNILORN.com"
+name: "UNILORN.net"
 nickname: "UNILORN"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Hi, I am"
@@ -7,8 +7,8 @@ image: "images/profile.png"
 
 # some summary about what you do
 summary:
-  - フロントエンドエンジニア
-  - サーバサイドエンジニア
+  - Frontend Engineer
+  - Backend Engineer
   - AWS,GCP Infrastoracture
   - IoT Platform Developent
   - System Management,R&D

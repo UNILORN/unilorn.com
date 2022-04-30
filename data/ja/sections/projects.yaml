@@ -2,7 +2,7 @@
 section:
   name: Projects
   id: projects
-  enable: false
+  enable: true
   weight: 4
   showOnNavbar: true
   # Can optionally hide the title in sections
@@ -15,6 +15,16 @@ buttons:
 
 # your projects
 projects:
+- name: OPTiM IoT
+  role: Maintainer
+  timeline: "2021年"
+  logo: "https://www.optim.co.jp/favicon.ico"
+  # repo: https://github.com/EC-CUBE/Eccube-Styleguide # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: "https://www.optim.co.jp/optim-iot/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: "クラウド機器管理サービス「OPTiM IoT」を2021年8月にリリース"
+  tags:
+    - "IoT"
+
 - name: EC-Cube Styleguide
   role: Contributor
   timeline: "2017年 ~"
@@ -22,21 +32,4 @@ projects:
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: |
     EC-Cubeのスタイルガイドへの初回Contoributer,PHPをベースに簡単にデザインできるような構成
-  tags: ["php", "OSS", "EC Site"]
-
-- name: Tensorflow
-  logo: /images/sections/projects/tensorflow.png
-  role: Developer
-  timeline: "Jun 2018 - Present"
-  repo: https://github.com/tensorflow/tensorflow
-  #url: ""
-  summary: An Open Source Machine Learning Framework for Everyone.
-  tags: ["professional", "machine-learning","academic"]
-
-- name: Toha
-  logo: /images/sections/projects/toha.png
-  role: Owner
-  timeline: "Jun 2019 - Present"
-  repo: https://github.com/hossainemruz/toha
-  summary: A Hugo theme for personal portfolio.
-  tags: ["hobby","hugo","theme","professional"]
+  tags: ["php", "EC Site"]
