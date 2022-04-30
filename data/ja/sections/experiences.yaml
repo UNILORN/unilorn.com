@@ -31,14 +31,21 @@ experiences:
     location: 東京都
     overview: MDM Optimal Bizをはじめとし、OPTiM Cloud IoT Platfowmの展開などデバイスマネジメント分野と AIサービスに特化したサービスを展開
   positions:
-  - designation: エンジニア - 技術統括本部
+  - designation: アルバイトスタッフ - 技術統括本部
+    start: "2017年 11月"
+    end: "2019年 3月"
+    responsibilities:
+    - DigitalTwin Program
+    - RFID,Arduino,IoTデバイス開発
+    - OPTiM出展,イベントスタッフ
+  - designation: エンジニア - 技術統括本部, Technology Strategy Office
     start: "2019年 4月"
     end: "2020年 10月"
     responsibilities:
     - "[OPTiM CLoud IoT OS](https://www.optim.cloud/platform/) 新規アプリ開発及び研究"
     - Edge Computing, VideoStreaming, DigitalTwin 開発
-  - designation: サブマネージャ - 技術統括本部
+  - designation: サブマネージャ - 技術統括本部, AI･IoTサービス開発部
     start: "2020年 10月"
     end: 現在
     responsibilities:
-    - 新規サービス開発リーダ
+    - 新規サービス [OPTiM IoT](https://www.optim.co.jp/optim-iot/) 開発リーダ
