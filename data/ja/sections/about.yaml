@@ -31,6 +31,9 @@ socialLinks:
 - name: Qiita
   icon: "fa fa-search"
   url: "https://qiita.com/UNILORN"
+- name: Zenn
+  icon: "fa fa-book"
+  url: "https://zenn.dev/unilorn"
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.

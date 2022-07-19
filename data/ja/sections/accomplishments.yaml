@@ -14,15 +14,15 @@ accomplishments:
 - name: Teslaで走行情報の可視化やってみた
   timeline: "2022-07-20"
   organization:
-    name: 個人
-    url: https://unilorn.net/
+    name: 個人 - zenn.dev
+    url: https://zenn.dev/unilorn
   courseOverview: Tesla車の車両データをAPIから取得し､Grafanaで可視化をしてみました
   certificateURL: "https://zenn.dev/unilorn/articles/977af33444d879"
 - name: Windows11 + WSL2 (Ubuntu22.04) のNVIDIA GPUについて
   timeline: "2022-06-05"
   organization:
-    name: 個人
-    url: https://unilorn.net/
+    name: 個人 - zenn.dev
+    url: https://zenn.dev/unilorn
   courseOverview: 新しくアップデートしたWindows11 + WSL2でDockerとNvidiaを試した記事です
   certificateURL: "https://zenn.dev/unilorn/articles/028e0b24864599"
 - name: Webブラウザからリモートシェルによるリモート操作のアーキテクチャについて
